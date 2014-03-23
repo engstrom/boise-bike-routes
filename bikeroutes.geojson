@@ -1,16 +1,12 @@
 {
+  "type": "FeatureCollection",
   "features": [
     {
+      "type": "Feature",
       "geometry": {
         "coordinates": [
-          [
-            43.6129727,
-            -116.193778
-          ],
-          [
-            43.6159515,
-            -116.1996675
-          ]
+          [-116.193778,43.6129727],
+          [-116.1996675,43.6159515]
         ],
         "type": "LineString"
       },
@@ -19,20 +15,14 @@
         "F_STREET": "N 1ST ST",
         "STREET": "W BANNOCK ST",
         "T_STREET": "N 6TH ST"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "coordinates": [
-          [
-            43.6159515,
-            -116.1996675
-          ],
-          [
-            43.6201269,
-            -116.2078992
-          ]
+          [-116.1996675,43.6159515],
+          [-116.2078992,43.6201269]
         ],
         "type": "LineString"
       },
@@ -41,20 +31,14 @@
         "F_STREET": "N 6TH ST",
         "STREET": "W BANNOCK ST",
         "T_STREET": "N 13TH ST"
-      },
-      "type": "Feature"
+      }
     },
     {
+      "type": "Feature",
       "geometry": {
         "coordinates": [
-          [
-            43.6160567,
-            -116.2065718
-          ],
-          [
-            43.6198712,
-            -116.2028984
-          ]
+          [-116.2065718,43.6160567],
+          [-116.2028984,43.6198712]
         ],
         "type": "LineString"
       },
@@ -63,9 +47,7 @@
         "F_STREET": "W GROVE ST",
         "STREET": "N 10TH ST",
         "T_STREET": "W STATE ST"
-      },
-      "type": "Feature"
+      }
     }
-  ],
-  "type": "FeatureCollection"
+  ]
 }
