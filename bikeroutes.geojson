@@ -11,10 +11,12 @@
         "type": "LineString"
       },
       "properties": {
-        "BIKEROUTE": "SHARED",
-        "F_STREET": "N 1ST ST",
-        "STREET": "W BANNOCK ST",
-        "T_STREET": "N 6TH ST"
+        "street": "W BANNOCK ST",
+        "from_street": "N 1ST ST",        
+        "to_street": "N 6TH ST",
+        "bike_lane": false,
+        "buffered": false,
+        "multi_use": false
       }
     },
     {
@@ -27,10 +29,12 @@
         "type": "LineString"
       },
       "properties": {
-        "BIKEROUTE": "MULTI-USE PATH",
-        "F_STREET": "N 6TH ST",
-        "STREET": "W BANNOCK ST",
-        "T_STREET": "N 13TH ST"
+        "street": "W BANNOCK ST",
+        "from_street": "N 6TH ST",
+        "to_street": "N 13TH ST",
+        "bike_lane": true,
+        "buffered": false,
+        "multi_use": false
       }
     },
     {
@@ -43,10 +47,12 @@
         "type": "LineString"
       },
       "properties": {
-        "BIKEROUTE": "MULTI-USE PATH",
-        "F_STREET": "W GROVE ST",
-        "STREET": "N 10TH ST",
-        "T_STREET": "W STATE ST"
+        "street": "N 10TH ST",
+        "from_street": "W GROVE ST",
+        "to_street": "W STATE ST",
+        "bike_lane": true,
+        "buffered": false,
+        "multi_use": false
       }
     }
   ]
