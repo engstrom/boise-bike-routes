@@ -21,6 +21,50 @@
         "T_STREET": "N 6TH ST"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            43.6159515,
+            -116.1996675
+          ],
+          [
+            43.6201269,
+            -116.2078992
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "BIKEROUTE": "MULTI-USE PATH",
+        "F_STREET": "N 6TH ST",
+        "STREET": "W BANNOCK ST",
+        "T_STREET": "N 13TH ST"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            43.6160567,
+            -116.2065718
+          ],
+          [
+            43.6198712,
+            -116.2028984
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "BIKEROUTE": "MULTI-USE PATH",
+        "F_STREET": "W GROVE ST",
+        "STREET": "N 10TH ST",
+        "T_STREET": "W STATE ST"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
