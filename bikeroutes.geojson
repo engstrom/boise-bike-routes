@@ -1,0 +1,27 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            43.6129727,
+            -116.193778
+          ],
+          [
+            43.6159515,
+            -116.1996675
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "BIKEROUTE": "SHARED",
+        "F_STREET": "N 1ST ST",
+        "STREET": "W BANNOCK ST",
+        "T_STREET": "N 6TH ST"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
