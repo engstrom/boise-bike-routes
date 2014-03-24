@@ -84,6 +84,27 @@
         "buffered": false,
         "multi_use": false
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [-116.16584804563,43.5822303130826],
+          [-116.165873124185,43.5831326899851],
+          [-116.165974182317,43.5833731904011],
+          [-116.166586446586,43.5839139155792],
+          [-116.166616918277,43.5839629527984]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "street": "E RIVER RUN DR",
+        "from_street": "E PARKCENTER BLVD",
+        "to_street": "E PENNSYLVANIA ST",
+        "bike_lane": true,
+        "buffered": false,
+        "multi_use": false
+      }
     }
   ]
 }
